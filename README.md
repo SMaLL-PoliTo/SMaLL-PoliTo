@@ -1,3 +1,5 @@
+<img width="350" alt="GIF" align="center" src="small-all.jpg">
+
 ## Welcome to our group!
 The multi-Scale ModeLing Laboratory - SMaLL - is an engineering research group launched at [Politecnico di Torino](https://www.polito.it/) with the aim to propose and promote innovative solutions for applications related to the energy sector. The lab is led and composed of young researchers with different backgrounds in engineering, mathematics and physics.
 
