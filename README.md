@@ -6,20 +6,13 @@ Our activities span over modeling, numerical simulations and experimental tests,
 ## Contact us
 [Prof. Eliodoro Chiavazzo](http://www.eliodorochiavazzo.net/)
 
-
-Department of Energy
-
-Politecnico di Torino
-
-Corso Duca degli Abruzzi 24
-
+Department of Energy || 
+Politecnico di Torino || 
+Corso Duca degli Abruzzi 24 || 
 10129 Turin - Italy
-
  
-Mail: [eliodoro.chiavazzo@polito.it](mailto:eliodoro.chiavazzo@polito.it)
-
-Phone: +39 011 090 4557
-
+Mail: [eliodoro.chiavazzo@polito.it](mailto:eliodoro.chiavazzo@polito.it) || 
+Phone: +39 011 090 4557 || 
 Fax: +39 011 090 4499
 
 ## Follow us
