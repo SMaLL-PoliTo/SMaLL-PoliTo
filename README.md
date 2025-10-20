@@ -16,7 +16,7 @@ Phone: +39 011 090 4557
 Fax: +39 011 090 4499
 
 ## Follow us
-[![Ghithub](https://img.shields.io/badge/-@SMaLL-PoliTo-informational?style=flat&logo=GitHub&logoColor=white&color=black)](https://github.com/SMaLL-PoliTo)
+[![Ghithub](https://img.shields.io/badge/-@SMaLL_PoliTo-informational?style=flat&logo=GitHub&logoColor=white&color=black)](https://github.com/SMaLL-PoliTo)
 [![Linkedin Badge](https://img.shields.io/badge/-SMaLL-informatilnal?style=flat&logo=Linkedin&logoColor=white&color=0A66C2&link=https://www.linkedin.com/in/small-lab/)](https://www.linkedin.com/company/small-lab/)
 [![Researchgate Badge](https://img.shields.io/badge/-SMaLL-informatilnal?style=flat&logo=researchgate&logoColor=white&color=00CCBB&link=https://www.researchgate.net/lab/multi-Scale-ModeLing-Laboratory-Pietro-Asinari)](https://www.researchgate.net/lab/multi-Scale-ModeLing-Laboratory-Pietro-Asinari)
 [![Twitter Badge](https://img.shields.io/badge/-@small_polito-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2&link=https://twitter.com/small_polito)](https://x.com/small_polito)
